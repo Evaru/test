@@ -1,5 +1,5 @@
-������ ���������� ����� scss - ����� �������� �� ����� �������
- ��������  sass --watch css/style.scss:css/style.css
+﻿Запуск компиляции scss файла 
+sass --watch css/style.scss:css/style.css
 
-���� txt ���������� ��� �������� �� ��������/��������� �������.
-������ - http://palashchenko.ru/testing/test/
+Файл txt загрузится при открытии на хостинге/локальном сервере.
+Пример - http://palashchenko.ru/testing/test/
